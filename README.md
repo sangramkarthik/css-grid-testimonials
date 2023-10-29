@@ -1,1 +1,1 @@
-# CSS-3 Grid Ecercise
+# CSS-3 Grid Exercise
